@@ -60,7 +60,7 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>Descripcion</th>
+            <th>Description</th>
             <th>Done</th>
           </tr>   
         </thead>
